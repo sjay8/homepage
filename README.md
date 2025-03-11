@@ -25,7 +25,7 @@ Building real-world ML applications:
 - **[Syllasync](https://github.com/sjay8/syllasync)** – Multi-syllabus to calendar organizer + LLM-powered Q&A (50+ users)  
 - **[Spanish Quiz LLM](https://github.com/sanaj24/Cohere-Spanish-Project-/blob/main/spanish_py.py)** – Built for a Spanish class (30+ users)  
 - **ReturnMe** – Automated purchase return reminders, saving users **$500+**  
-- **[Beacon](https://apps.apple.com/mt/app/beacon-hang-out-more/id6462405669)** – Social connection app (PM role)  
+- **[Beacon (App Link)](https://apps.apple.com/mt/app/beacon-hang-out-more/id6462405669)** – Social connection app (PM)  
   - Selected **1 of 7 out of 200+ applicants** to pitch at competition  
   - **Audience’s Choice Award Winner**  
 
